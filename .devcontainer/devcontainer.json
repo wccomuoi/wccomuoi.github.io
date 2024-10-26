@@ -25,5 +25,8 @@
         "mhutchie.git-graph"
       ]
     }
-  }
+  },
+  "mounts": [
+    "source=D:\\repo\\blog\\source\\_posts,target=/workspaces/wccomuoi.github.io/_drafts,type=bind"
+  ]
 }
